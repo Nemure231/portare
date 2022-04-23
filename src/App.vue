@@ -2,13 +2,12 @@
 import { StarportCarrier, Starport } from 'vue-starport'
 import { UseDark } from '@vueuse/components'
 import Profile from './components/Data/Profile.vue'
-import Home from './components/Base/Index.vue'
 import Skill from './components/Data/Skill.vue'
 import Portfolio from './components/Data/Portfolio.vue'
 import Work from './components/Data/Work.vue'
 import ReOff from './components/Reload/Index.vue'
 export default {
-  components: { StarportCarrier, Starport, UseDark, Profile, Skill, Portfolio, Work, ReOff, Home },
+  components: { StarportCarrier, Starport, UseDark, Profile, Skill, Portfolio, Work, ReOff},
   data() {
     return {
       switchTheme: {
@@ -26,9 +25,6 @@ export default {
     }
   },
   methods: {
-    giveProfileData() {
-      this.$refs.childProfile.setProfileData();
-    },
     getProfileData() {
       return JSON.parse(localStorage.getItem('profile'))
     },
@@ -82,8 +78,7 @@ export default {
   <router-view @childReload="reloadOnce" name="Work"></router-view>
   <router-view @childReload="reloadOnce" name="Skill"></router-view>
   <router-view @childReload="reloadOnce" name="Portfolio"></router-view>
-  <Home v-if="this.$route.name == 'Home'"/>
-  <!-- <router-view name="Home"></router-view> -->
+  <router-view name="Home"></router-view>
   
 
   <StarportCarrier></StarportCarrier>
