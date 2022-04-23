@@ -34,7 +34,7 @@ export default {
         
           <div 
             class="break-words flex flex-nowrap flex-col items-center justify-center font-semibold 
-          border-black rounded-xl space-y-12">
+          rounded-xl space-y-12">
             <Item />
           </div>
         </div>

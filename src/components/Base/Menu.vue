@@ -15,7 +15,7 @@ export default {
 <template>
     <section class="relative flex-1">
         <div class="relative ">
-            <div class=" flex lg:flex-row md:flex-row sm:flex-row flex-row flex-wrap gap-2 justify-center items-center">
+            <div class=" flex lg:flex-row md:flex-row sm:flex-row flex-row flex-wrap lg:gap-6 md:gap-6 gap-3 justify-center items-center">
                 <Starport port="skill-nav" class="lg:w-40 md:w-40 w-full h-10 relative duration-1000 transition-all">
                     <NavSkill />
                 </Starport>

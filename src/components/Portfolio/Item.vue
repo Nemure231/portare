@@ -26,7 +26,7 @@ export default {
           </Image>
         </div>
         <div
-          class="absolute bottom-0 inset-x-0 px-3  py-1 bg-warning rounded-xl group-hover:border-2 group-hover:border-primary">
+          class="absolute bottom-0 inset-x-0 px-3  py-1 bg-main rounded-xl group-hover:border-2 group-hover:border-primary">
           <div class="flex flex-col flex-nowrap items-start justify-start space-y-1">
             <Name :loopPortfo="lf" />
             <Description :loopPortfo="lf" />

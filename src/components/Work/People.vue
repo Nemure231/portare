@@ -19,16 +19,17 @@ export default {
        
         <div
             class="absolute bg-light dark:bg-secondary border border-gray-500/25 inset-0 rounded-xl group-hover:shadow-lg transition ease-in-out duration-500 group-hover:scale-105">
-            <div class="w-full group-hover:shadow-lg dark:group-hover:shadow-warning/50 h-full rounded-xl bg-cover bg-center"
+            <div class="w-full group-hover:shadow-lg dark:group-hover:shadow-main/50 h-full rounded-xl bg-cover bg-center"
                 :style="{ backgroundImage: 'url(' + p.testi + ')' }">
 
                 <div class="flex justify-center items-center space-x-3 h-full">
-                    <button @click="showImgModal(p.testi)" class="px-5 py-1.5 bg-dark text-warning rounded-3xl text-sm">
+                    <button @click="showImgModal(p.testi)" 
+                        class="px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
                         View 
                     </button>
 
                     <button :id="`showCommentBtn${p.id}${loopWork.id}`" @click="showCommentDropUp(`${p.id}${loopWork.id}`)"
-                        class="px-5 py-1.5 bg-dark text-warning rounded-3xl text-sm">
+                         class="px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
                         Comment
                     </button>
                 </div>
@@ -45,7 +46,7 @@ export default {
         </div>
 
         <div
-            class="absolute bottom-0 inset-x-0 px-3  py-1 bg-warning rounded-xl group-hover:border-2 group-hover:border-primary">
+            class="absolute bottom-0 inset-x-0 px-3  py-1 bg-main rounded-xl group-hover:border-2 group-hover:border-primary">
             <div class="flex flex-row flex-nowrap items-center justify-start space-x-2">
                 <img :class="p.img ? 'block' : 'hidden'" class="w-10 h-10 rounded-full border-2 border-primary"
                     :src="p.img" alt="">
@@ -53,7 +54,7 @@ export default {
                     class="w-10 h-10 rounded-full border-2 border-primary uppercase inline-flex justify-center items-center font-bold text-primary">
 
                 </div>
-                <span v-text="p.name"></span>
+                <span class="lg:text-sm md:text-sm text-xs" v-text="p.name"></span>
             </div>
         </div>
     </div>

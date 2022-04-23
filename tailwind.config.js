@@ -1,4 +1,3 @@
-const colors = require('tailwindcss/colors')
 
 module.exports = {
   darkMode: 'class',
@@ -8,19 +7,24 @@ module.exports = {
   ],
   theme: {
     extend: {
+      // This is where you can change the default colors of text
+      // If you want list suggestion color, check this link:
+      // https://tailwindcss.com/docs/customizing-colors
       colors: {
-        'primary': colors.gray[800],
-        'secondary': colors.gray[500],
-        'warning': colors.yellow[400],
-        'light': colors.gray[300]
+        'primary': '#1f2937',
+        'secondary': '#6b7280',
+        'main': '#5eead4',
+        'light': '#d1d5db'
       },
+      //This is default background colors
       backgroundColor: {
         'secondary': '#1F1F1F',
-        'light': colors.white,
+        'light': '#ffffff',
         'dark': '#121212'
       },
+      // The border colors
       borderColor: {
-        'warning': colors.yellow[400]
+        'main': '#5eead4'
       },
     },
   },

@@ -4,7 +4,9 @@ export default {
 }
 </script>
 <template>
-    <span class="text-2xl text-primary font-bold dark:text-light">{{loopWork.title}}
-        <a :href="loopWork.url" class="inline-flex border-b-2" :class="loopWork.color" v-text="loopWork.from"></a>
+    <span class="flex lg:flex-row mdLflex-row flex-col flex-wrap text-2xl text-primary font-bold dark:text-light 
+    lg:space-x-2 md:space-x-2 space-x-0 lg:space-y-0 md:space-y-0 space-y-1"> 
+        <div> {{loopWork.title}}</div>
+        <a :href="loopWork.url" class=" border-b-2" :class="loopWork.color" v-text="loopWork.from"></a>
     </span>
 </template>

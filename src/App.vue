@@ -5,8 +5,9 @@ import Profile from './components/Data/Profile.vue'
 import Skill from './components/Data/Skill.vue'
 import Portfolio from './components/Data/Portfolio.vue'
 import Work from './components/Data/Work.vue'
+import ReOff from './components/Reload/Index.vue'
 export default {
-  components: { StarportCarrier, Starport, UseDark, Profile, Skill, Portfolio, Work },
+  components: { StarportCarrier, Starport, UseDark, Profile, Skill, Portfolio, Work, ReOff },
   data() {
     return {
       switchTheme: {
@@ -17,34 +18,34 @@ export default {
   },
   provide() {
     return {
-      provSkills:  this.getSkillData(),
+      provSkills: this.getSkillData(),
       provWorks: this.getWorkData(),
       provPortfolios: this.getPortfolioData(),
       provProfile: this.getProfileData(),
     }
   },
-  methods:{
-    giveProfileData(){
+  methods: {
+    giveProfileData() {
       this.$refs.childProfile.setProfileData();
     },
-    getProfileData(){
+    getProfileData() {
       return JSON.parse(localStorage.getItem('profile'))
     },
 
-    getSkillData(){
+    getSkillData() {
       return JSON.parse(localStorage.getItem('skills'))
     },
 
-    getWorkData(){
+    getWorkData() {
       return JSON.parse(localStorage.getItem('works'))
     },
 
-    getPortfolioData(){
+    getPortfolioData() {
       return JSON.parse(localStorage.getItem('portfolios'))
     },
 
 
-    reloadOnce(){      
+    reloadOnce() {
       if (!localStorage.reloadProfile) {
         localStorage.setItem("reloadProfile", "true");
         window.location.reload();
@@ -65,9 +66,12 @@ export default {
         window.location.reload();
       }
 
+    },
+    checkBg(){
+      this.$refs.childProfile.checkBgChild();
     }
   },
-  mounted(){
+  mounted() {
     this.reloadOnce();
   },
 }   
@@ -83,27 +87,19 @@ export default {
 
   <div class="fixed z-50 top-2.5 right-4">
     <UseDark v-slot="{ isDark, toggleDark }">
-      <button @click="toggleDark()" v-html="isDark ? switchTheme.dark : switchTheme.light"
+      <button id="klik" @click="toggleDark(); checkBg()" v-html="isDark ? switchTheme.dark : switchTheme.light"
         class=" h-7 w-7 text-gray-200">
       </button>
     </UseDark>
   </div>
 
-  <Profile/>
-
-  <Skill/>
-
+  <ReOff />
+  <Profile ref="childProfile" />
+  <Skill />
   <Portfolio />
-
-  <Work/>
+  <Work />
 </template>
 
 <style>
-/* [data-starport-craft] {
-    background: #0805;
-  }
 
-  [data-starport-proxy]:not([data-starport-landed]) {
-    background: #8005;
-  } */
 </style>

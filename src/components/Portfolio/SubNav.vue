@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <div class="bg-dark dark:bg-secondary h-12 flex-row flex-nowrap flex justify-center items-center lg:text-2xl md:text-2xl text-xl text-warning font-bold">
+  <div class="bg-dark dark:bg-secondary h-12 flex-row flex-nowrap flex justify-center items-center lg:text-2xl md:text-2xl text-xl text-main font-bold">
     <div class="relative flex-1 basis-full text-center">
       Portfolios
       <router-link class="absolute left-3" to="/">

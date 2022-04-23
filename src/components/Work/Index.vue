@@ -89,7 +89,7 @@ export default {
 
         <div class="relative z-20 flex-1 lg:max-w-4xl md:max-w-2xl max-w-max mx-3">
           <div class="break-words flex flex-nowrap space-y-6 flex-col justify-center items-center font-semibold 
-          border-black rounded-xl">
+          rounded-xl">
             <Item @childShowImgModal="showImgModal" @childShowCommentDropUp="showCommentDropUp"/>
           </div>
         </div>

@@ -7,14 +7,21 @@ export default {
           id: 1,
           // This is the skill name
           name: `PhotoShop`,
-          // This is the lis bottom color
+          // This is the border bottom color
           // remember just change the hex color only, starting form #
           color: `border-b-[#31C5F0]`,
           // This is the shadow color, it will glow in the dark theme when you hover the icon
           // remember just change the hex color only, starting form #
           shadow: `hover:dark:shadow-[#31C5F0]/50`,
+          // This is the skills logo
+          // I you can choose icon in here: 
+          // https://icones.js.org/collection/vscode-icons?s=
+          // or if you didn't find the icon, search all icon
+          // Search your desired icon, click, and press the [SVG] button to copy that
+          // Paste that in [ logo: ] data below
           logo: `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--vscode-icons" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="#0c0824" d="M3.167 3.517h25.666v24.966H3.167Z"></path><path fill="#31c5f0" d="M3.167 3.517h25.666v24.966H3.167ZM2 29.65h28V2.35H2Zm18.877-16.1c-.922 0-1.237.467-1.237.852c0 .42.21.712 1.447 1.353c1.832.887 2.4 1.738 2.4 2.987c0 1.867-1.423 2.87-3.348 2.87a5.076 5.076 0 0 1-2.392-.5c-.082-.035-.093-.093-.093-.187v-1.717c0-.117.058-.152.14-.093a4.33 4.33 0 0 0 2.345.688c.922 0 1.307-.385 1.307-.91c0-.42-.268-.793-1.447-1.4c-1.657-.793-2.345-1.6-2.345-2.94c0-1.505 1.178-2.753 3.22-2.753a5.365 5.365 0 0 1 2.088.327a.258.258 0 0 1 .117.233v1.6c0 .093-.058.152-.175.117a3.941 3.941 0 0 0-2.03-.525Zm-10.034 1.388c.268.023.478.023.945.023c1.365 0 2.648-.478 2.648-2.333c0-1.482-.922-2.228-2.473-2.228c-.467 0-.91.023-1.12.035Zm-2.077-6.2c0-.082.163-.14.257-.14a69.782 69.782 0 0 1 3.01-.058c3.232 0 4.492 1.773 4.492 4.037c0 2.963-2.147 4.235-4.783 4.235c-.443 0-.595-.023-.91-.023v4.48c0 .093-.035.14-.14.14H8.907c-.093 0-.14-.035-.14-.14V8.743Z"></path></svg>`
         },
+        // Same as above, its just your end skills
         {
           id: 2,
           name: `Word`,

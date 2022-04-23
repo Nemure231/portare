@@ -14,6 +14,8 @@ export default {
 }
 </script>
 
+
+
 <template>
   <Name />
   <main class="relative space-y-6 w-full flex flex-col justify-center items-center my-8">
