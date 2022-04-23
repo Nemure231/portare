@@ -1,114 +1,55 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Nemure231/portare/blob/main/src/assets/logo.png?raw=true" alt="Portare"></a>
 </p>
 
-<h3 align="center">karoly</h3>
+<h3 align="center">PORTARE</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
+<p align="justify">
+    A siatic portfolio website. Static website mean a website that doesn't connect or store website information to the database, so if you want to upload and update your data in this portfolio, the choice is updating data through the Portare code, unless maybe you are write the back-end code and use Portare as your interface.
 </p>
 
-## 📝 Table of Contents
+<p align="justify">
+  Portare was a friendly designed for people who doesn't know how to code. And maybe can be interested about coding, because they are indirecly typing inside the code project itself.
+</p>
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+<p align="justify">
+  Follow the guide below to get starting with Portare.
+</p>
 
-## 🧐 About <a name = "about"></a>
+## Guide
+- [Sign in to github](../docs/GITHUB.md)
+- [Install Code Editor](../docs/CODE_EDITOR.md)
+- [Install Git](../docs/GIT.md)
+- [Install Node](../docs/NODE.md)
+- [Install Portare](../docs/GITHUB.md)
+- [Setup Portfolio Data's](../docs/SETUP_DATA.md)
+- [Setup Portfolio Color's](../docs/SETUP_COLOR.md)
+- [Deploy to Netlify](../docs/DEPLOY.md)
+- [Mainteince](../docs/MAINTENCE.md)
+- [Advanced](../docs/MAINTENCE.md)
 
-Write about 1-2 paragraphs describing the purpose of your project.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Built With
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
+<a href="https://vuejs.org/"><img width=40px height=40px src="https://vuejs.org/images/logo.png" alt="Vue"></a> Front-End Framework
+<br>
+<a href="https://vitejs.dev/"><img width=40px height=40px src="https://vitejs.dev/logo.svg" alt="Vite"></a> Front-End Tooling
+<br>
+<a href="https://vite-plugin-pwa.netlify.app/"><img width=50px height=50px src="https://vite-plugin-pwa.netlify.app/banner_light.svg" alt="Vite PWA"></a> PWA Plugin
+<br>
+<a href="https://vue-starport.netlify.app/"><img width=50px height=50px src="https://github.com/antfu/vue-starport/blob/main/graphs/logo.png" alt="Starport"></a> Animation Across Route
 
-What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+## Copyright
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+Copyright by Karol.Y under <a href="https://github.com/Nemure231/portare/blob/main/LICENSE">MIT</a> Lincense
