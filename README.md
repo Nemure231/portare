@@ -34,7 +34,7 @@
 - [Setup Portfolio Data's](../docs/SETUP_DATA.md)
 - [Setup Portfolio Color's](../docs/SETUP_COLOR.md)
 - [Deploy to Netlify](../docs/DEPLOY.md)
-- [Mainteince](../docs/MAINTENCE.md)
+- [Maintenance](../docs/MAINTENAnCE.md)
 - [Advanced](../docs/MAINTENCE.md)
 
 
