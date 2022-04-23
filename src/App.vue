@@ -81,7 +81,7 @@ export default {
   <router-view @childReload="reloadOnce" name="Work"></router-view>
   <router-view @childReload="reloadOnce" name="Skill"></router-view>
   <router-view @childReload="reloadOnce" name="Portfolio"></router-view>
-  <router-view></router-view>
+  <router-view name="Home"></router-view>
 
   <StarportCarrier></StarportCarrier>
 
