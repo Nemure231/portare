@@ -26,17 +26,17 @@
 </p>
 
 ## Guide
-- [Sign in/up to github](../docs/GITHUB.md)
-- [Install Code Editor](../docs/CODE_EDITOR.md)
-- [Install Git](../docs/GIT.md)
-- [Install Node](../docs/NODE.md)
-- [Install Portare](../docs/PORTARE.md)
-- [Setup Portfolio Data's](../docs/SETUP_DATA.md)
-- [Setup Portfolio Color's](../docs/SETUP_COLOR.md)
-- [Setup Portfolio Head](../docs/SETUP_HEAD.md)
-- [Deploy to Netlify](../docs/DEPLOY.md)
-- [Maintenance](../docs/MAINTENANCE.md)
-- [Advanced](../docs/ADVANCED.md)
+- [Sign in/up to github](../main/docs/GITHUB.md)
+- [Install Code Editor](../main/docs/CODE_EDITOR.md)
+- [Install Git](../main/docs/GIT.md)
+- [Install Node](../main/docs/NODE.md)
+- [Install Portare](../main/docs/PORTARE.md)
+- [Setup Portfolio Data's](../main/docs/SETUP_DATA.md)
+- [Setup Portfolio Color's](../main/docs/SETUP_COLOR.md)
+- [Setup Portfolio Head](../main/docs/SETUP_HEAD.md)
+- [Deploy to Netlify](../main/docs/DEPLOY.md)
+- [Maintenance](../main/docs/MAINTENANCE.md)
+- [Advanced](../main/docs/ADVANCED.md)
 
 
 ## Built With
