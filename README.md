@@ -41,7 +41,6 @@
 
 ## Built With
 
-
 <a href="https://vuejs.org/"><img width=40px height=40px src="https://vuejs.org/images/logo.png" alt="Vue"></a> Front-End Framework
 <br>
 <a href="https://vitejs.dev/"><img width=40px height=40px src="https://vitejs.dev/logo.svg" alt="Vite"></a> Front-End Tooling
