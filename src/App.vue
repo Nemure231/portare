@@ -62,7 +62,6 @@ export default {
         localStorage.setItem("reloadWork", "true");
         window.location.reload();
       }
-
     },
     checkBg(){
       this.$refs.childProfile.checkBgChild();

@@ -27,9 +27,6 @@
 
 ## Guide
 - [Sign in/up to github](../main/docs/GITHUB.md)
-- [Install Code Editor](../main/docs/CODE_EDITOR.md)
-- [Install Git](../main/docs/GIT.md)
-- [Install Node](../main/docs/NODE.md)
 - [Install Portare](../main/docs/PORTARE.md)
 - [Setup Portfolio Data's](../main/docs/SETUP_DATA.md)
 - [Setup Portfolio Color's](../main/docs/SETUP_COLOR.md)
