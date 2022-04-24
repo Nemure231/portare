@@ -37,6 +37,9 @@ If that clear enough, then you good to go, choose your instalation way.
   <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/PORTARE_IMPORT.md">
     Install Portare (Import Ver)
   </a>
+</p>
+
+<p align="right">Next
   <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/PORTARE_FORK.md">
     Install Portare (Fork Ver)
   </a>
