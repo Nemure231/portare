@@ -9,7 +9,7 @@ const routes = [
     {
         path: '/',
         components: {
-            default: Home
+            Home
         },
     },
     {
