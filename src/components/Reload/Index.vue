@@ -28,7 +28,7 @@ export default defineComponent({
         class="fixed right-3 bottom-3 text-left p-4 rounded-lg shadow-lg z-50 dark:bg-secondary bg-light border dark:border-light/25 border-secondary/25" role="alert">
         <div class="mb-3">
             <span class="font-semibold text-primary dark:text-light" v-if="offlineReady">
-                App ready to work offline
+                App ready to install
             </span>
             <span class="font-semibold text-primary dark:text-light" v-else>
                 New content available, click on reload button to update.
