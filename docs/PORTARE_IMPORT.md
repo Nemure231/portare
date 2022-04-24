@@ -23,7 +23,7 @@ cannot receive some update verison from Portare. So lets get started.
 
 ## Note
 <p align="justify">
-Maybe you have a question why are i am Nemure231 is still in your repository, that mean your repository still connected to my repository, but i have no control or access in your repository.</p>
+Maybe you have a question why are i am Nemure231 is still in your repository, well your are imported Portare repository that is still have my old code history. But it's not a problem, i don't have access to your.</p>
 <br>
 
 <br>
