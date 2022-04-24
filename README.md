@@ -28,10 +28,10 @@
 ## Guide
 - [Sign in/up to github](../main/docs/GITHUB.md)
 - [Install Portare](../main/docs/PORTARE.md)
+- [Deploy to Netlify](../main/docs/DEPLOY.md)
 - [Setup Portfolio Data's](../main/docs/SETUP_DATA.md)
 - [Setup Portfolio Color's](../main/docs/SETUP_COLOR.md)
 - [Setup Portfolio Head](../main/docs/SETUP_HEAD.md)
-- [Deploy to Netlify](../main/docs/DEPLOY.md)
 - [Maintenance](../main/docs/MAINTENANCE.md)
 - [Advanced](../main/docs/ADVANCED.md)
 
