@@ -14,7 +14,8 @@ welcome, the fork installation same easily as import verison also. So let's get 
 
 ## Note
 <p align="justify">
-To check how to update your Porate with new verison, you can read the the [Maintenance](../main/docs/MAINTENANCE.md) guide. But you can read that later, the next thing you are going to do is deploy your webiste. </p>
+To check how to update your Porate with new verison, you can read the the<a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/MAINTENANCE.md"> Maintenance </a> guide. But you can read that later, the next thing you are going to do is deploy your webiste.
+</p>
 
 <br>
 <p align="right">Next
