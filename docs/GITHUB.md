@@ -7,24 +7,15 @@ and know the basic, you good to go at <a href="https://github.com/Nemure231/port
 ## Why Github?
 
 <p align="justify">
-I know its kinda nonsense, because we are in github and i am telling you to sign up. But joke aside, before i start learning to code, i don't even 
-know or want to sign up to github, because that what is beginner thinking. What i know before that time, github is just version control system for website,
-not much. But time by time, i do realize i can connect my github into the hosting.
-</p>
+Because of we are going to make static website, which is we need a place where we can store and update the portfolio data easily. Github is the right place to do that job. Many hosting provide a service that can connect with github especially Netlify that the free hosting we are going use in this guide. When you edit your data at gihub your website is automaticly updated also,
 
 <p align="justify">
-Hosting is the place where you can upload the website, so want i am talking about is you can make change of your file here, at github easily, and 
-it will be change also in your hosting which is updating your website.
-</p>
-
-<p align="justify">
-Its useful, especially for static website, and many hosting of course provide service to connect your website to github, 
-Netlify also can do that.
+If you already sign in, then you can go to the next page, to install Portare.
 </p>
 
 <br>
 <p align="right">Next
-  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/CODE_EDITOR.md">
-    Code Editor
+  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/PORTARE.md">
+    Install Portare
   </a>
 </p>
