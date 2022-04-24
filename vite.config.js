@@ -15,7 +15,7 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],  
       manifest: {
         name: 'Portfo',
-        short_name: 'Simple portfolio website',
+        short_name: 'Portare',
         description: 'Open source portfolio website',
         theme_color: '#ffffff',
         icons: [
