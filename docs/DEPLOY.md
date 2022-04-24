@@ -3,7 +3,7 @@
 Next step is deploy to the Netlify Hosting, you may asking me why don't we setup the data first. Because, we need to test the base installation of Portare, maybe there's something wrong, so you can make an issues in Portare to help me with bugs or errors. Let's get started.
 </p>
 
-1. Go to [Netlify](https://www.sublimetext.com/3) and then click `Sign Up`.
+1. Go to [Netlify](https://www.netlify.com) and then click `Sign Up`.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s1.png" align="center" />
 <br><br>
 
