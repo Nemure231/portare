@@ -14,7 +14,7 @@
 ---
 
 <p align="justify">
-    A siatic portfolio website. Static website mean a website that doesn't connect or store website information to the database, so if you want to upload and update your data in this portfolio, the choice is updating data through the Portare code, unless maybe you are write the back-end code and use Portare as your interface.
+    A siatic portfolio website. Static website mean a website that doesn't connect or store website information to the database, so if you want to upload and update your data in this portfolio, the choice is updating data through the Portare code in github that connect to the hosting, unless maybe you are write the back-end code and use Portare as your interface.
 </p>
 
 <p align="justify">
