@@ -23,7 +23,8 @@
 
 ## Guide
 - [Sign in/up to github](../main/docs/GITHUB.md)
-- [Install Portare](../main/docs/PORTARE.md)
+- [Install Portare (Import Ver)](../main/docs/PORTARE_IMPORT.md)
+- [Install Portare (Fork Ver)](../main/docs/PORTARE_FORK.md)
 - [Deploy to Netlify](../main/docs/DEPLOY.md)
 - [Setup Portfolio Data's](../main/docs/SETUP_DATA.md)
 - [Setup Portfolio Color's](../main/docs/SETUP_COLOR.md)
