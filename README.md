@@ -18,10 +18,6 @@
 </p>
 
 <p align="justify">
-  Portare was a friendly designed for people who doesn't know how to code. And maybe can be interested about coding, because they are indirecly typing inside the code project itself.
-</p>
-
-<p align="justify">
   Follow the guide below to get starting with Portare.
 </p>
 
