@@ -1,15 +1,48 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <!-- The basic description of your website -->
+    <meta name="description" content="I am a ... your role at workplace" />
+    <meta name="keywords" content="What, is, your, role" />
+    <meta name="author" content="Your Name" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <!-- This is your profile, to identify your website as yours -->
+    <meta property="og:type" content="profile" />
+    <meta property="profile:first_name" content="Your first name" />
+    <meta property="profile:last_name" content="Your last name" />
+    <meta property="profile:username" content="Your uniques username" />
+    <meta property="profile:gender" content="Your gender" />
     
+    <!-- This will be apper if you share your website in social media like facebook, linkedin, whatsapp and more -->
+    <meta property="og:site_name" content="Your site name">
+    <meta property="og:title" content="Your site name" />
+    <meta property="og:url" content="https://portare.netlify.com" />
+    <meta property="og:description" content="I am a ... your role at workplace" />
+    <meta property="og:image" content="/img/logo/logo.png" />
+    <meta property="og:image:alt" content="Your name">
+
+    <!-- Same as above, but for twitter only -->
+    <!-- 
+      You can change the twitter card content with "summary" or "summary_large_image"
+      Summary is for small image that will appear if you share your website in twitter,
+      and the large image is for large image.
+    -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image:alt" content="Your name">
+
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="alternate icon" href="/favicon.ico" type="image/png" sizes="16x16">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
     <link rel="mask-icon" href="/favicon.svg" color="#FFFFFF">
+    <noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+    <!-- Your website title -->
     <title>Portare</title>
+    
   </head>
   <body class="bg-main/5 bg-fixed bg-cover dark:bg-none dark:bg-dark lg:overflow-x-hidden md:overflow-x-hidden overflow-x-visible">
     <div id="app"></div>
