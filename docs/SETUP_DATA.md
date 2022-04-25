@@ -39,6 +39,10 @@ You must careful when edit the Data file, make sure you don't leave any typo in 
 And you are done, you can check your netlify dashboard to see the progress, after the progress is done, open your website. The deploy is success but your website logo still haven't change yet? You need to hard refresh your browser because your browser still store your old logo and old information, to do that just click `CTRL` + `SHIFT` + `R` in your website.
 
 
+## SVG Icon
+Always click the `SVG` button, when you want to use an icon.
+<img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d9.png" align="center" />
+
 <br>
 <p align="right">Next
   <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_META.md">
