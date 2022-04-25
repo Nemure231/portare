@@ -4,7 +4,7 @@ export default {
 }
 </script>
 <template>
-    <span class="text-sm font-bold">
+    <span class="2xl:text-base text-sm font-bold pr-12">
         {{ loopPortfo.name }}
     </span>
 </template>

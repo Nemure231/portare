@@ -24,12 +24,12 @@ export default {
 
                 <div class="flex justify-center items-center space-x-3 h-full">
                     <button @click="showImgModal(p.testi)" 
-                        class="px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
+                        class="2xl:text-base px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
                         View 
                     </button>
 
                     <button :id="`showCommentBtn${p.id}${loopWork.id}`" @click="showCommentDropUp(`${p.id}${loopWork.id}`)"
-                         class="px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
+                         class="2xl:text-base px-5 py-1.5 dark:bg-dark bg-light border-2 dark:border border-main text-primary font-semibold dark:text-main rounded-3xl text-sm">
                         Comment
                     </button>
                 </div>
@@ -39,7 +39,7 @@ export default {
 
         <div :id="`showComment${p.id}${loopWork.id}`"
             class="invisible translate-y-20 opacity-0 bg-light/80 dark:bg-dark/80  absolute inset-4 rounded-xl transition ease-in-out duration-300 group-hover:scale-105">
-            <div v-text="p.comment" class="px-3 pt-3 pb-6 text-xs text-primary dark:text-light">
+            <div v-text="p.comment" class="2xl:text-sm px-3 pt-3 pb-6 text-xs text-primary dark:text-light">
 
             </div>
 
@@ -54,7 +54,7 @@ export default {
                     class="w-10 h-10 rounded-full border-2 border-primary uppercase inline-flex justify-center items-center font-bold text-primary">
 
                 </div>
-                <span class="lg:text-sm md:text-sm text-xs" v-text="p.name"></span>
+                <span class="2xl:text-base xl:text-sm lg:text-sm md:text-sm text-xs" v-text="p.name"></span>
             </div>
         </div>
     </div>

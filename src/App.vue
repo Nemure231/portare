@@ -78,8 +78,6 @@ export default {
   <router-view @childReload="reloadOnce" name="Skill"></router-view>
   <router-view @childReload="reloadOnce" name="Portfolio"></router-view>
   <router-view name="Home"></router-view>
-  
-
   <StarportCarrier></StarportCarrier>
 
   <div class="fixed z-50 top-2.5 right-4">
@@ -89,12 +87,18 @@ export default {
       </button>
     </UseDark>
   </div>
-
   <ReOff />
   <Profile ref="childProfile" />
   <Skill />
   <Portfolio />
   <Work />
+
+
+  <footer class="fixed bottom-3 right-3 z-0">
+    <div class="text-xs text-primary dark:text-light">
+      Made by <a class="font-bold" href="https://github.com/Nemure231/portare">Portare</a>
+    </div>
+  </footer>
 </template>
 
 <style>

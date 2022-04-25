@@ -23,7 +23,7 @@ export default {
               name: `Front-End Developer (2011 - 2014)`,
               // Your job detail, what are you doing at your company?
               // What your role? Describe it here
-              comment: `I have working in this company as a Front-End Developer. My boss really hate me btw.`,
+              comment: `I have working in this company as a Front-End Developer.`,
               // Your picture
               // Its located at folder public/img/profile
               // You can store your image in there, and change the name here
