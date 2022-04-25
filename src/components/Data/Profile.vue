@@ -1,5 +1,5 @@
 <script>
-import { useDark } from '@vueuse/core'
+import { usePreferredDark } from '@vueuse/core'
 export default {
   data() {
     return {
@@ -54,26 +54,23 @@ export default {
     },
     checkBgChild(){
       const checkDark = document.getElementsByTagName("html")[0];
-
       if(!checkDark.classList.contains('dark')){
           document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
       }else{
           document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
-
       }
+    },
+    isDarks(){
+      return usePreferredDark();
     }
   },
   mounted(){
     this.setProfileData();
     this.bgPattern
-
-    const isDark = useDark();
-    console.log(isDark)
   },
   computed: {
     bgPattern(){
       const checkDark = document.getElementsByTagName("html")[0];
-
       if(checkDark.classList.contains('dark')){
           document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
       }else{
