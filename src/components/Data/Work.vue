@@ -8,7 +8,7 @@ export default {
           // The title
           title: 'Working at',
           // Your company name
-          from: `Your Company Link`,
+          from: `Your Company Name`,
           // The border bottom color of your company link
           color: `border-[#5eead4]`,
           // Your company url, or maybe their map url
