@@ -57,13 +57,20 @@ we need to convert your icon with some favicon converter.
 <br><br>
 
 14. You will see the file, and there's so many example i write in that file to help you with the edits. You need to careful here, everything you need to fill is always inside `the content=" "`, please make sure you double check to make sure you don't leave any typo.
-
 To To edit it, click the `Pencil` icon.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m14.png" align="center" />
 <br><br>
 
 15. After you done with your edit, fill your `Commit change` its optional anyway you can leave it empty if you want, and then click `Commit change`
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m15.png" align="center" />
+<br><br>
+
+16. The last thing, back again to your repository, scroll a bit down and you will find `vite.config.js`
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m17.png" align="center" />
+<br><br>
+
+17. You can change those 3, and don't change anything. After you done select `commit directly to the main branch` then click `Commit changes`.
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m18.png" align="center" />
 <br><br>
 
 ## Notice!

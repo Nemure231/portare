@@ -18,7 +18,7 @@ export default defineConfig({
         name: 'Portare',
         short_name: 'Portare',
         description: 'A simple SPA PWA portfolio',
-        theme_color: '#ffffff',
+        theme_color: '#1f1f1f',
         icons: [
           {
             src: 'pwa-192x192.png',
