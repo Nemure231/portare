@@ -11,24 +11,20 @@ Next step is deploy to the Netlify Hosting, you may asking me why don't we setup
  <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s2.png" align="center" />
 <br><br>
 
-3. If you are already done with sign up, then you can login and see this dashboard. Go click `Add new site`, then click `Import an existing project`.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s3.png" align="center" />
+3. When your sign up, they ask you to deploy your first website, so click `Import from Git`
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s2.5.png" align="center" />
 <br><br>
 
-4. You will move to another page, then click `Github` button.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s4.png" align="center" />
+4. Then, select `Github`
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s2.6.png" align="center" />
 <br><br>
 
-5. Search your repository, and then click that.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s5.png" align="center" />
+5. They will ask you to install Netlify in your github, you need to select `All repositories`, and click `Install`
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s2.7.png" align="center" />
 <br><br>
 
-6. In another page, scroll to bottom and click `Deploy site`.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s6.png" align="center" />
-<br><br>
-
-7. You will see Netlify start to deploying your site, wait until finish.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s7.png" align="center" />
+5. After that, you need to choose which branch you want to deploy, always select `Main`, and then click `Deploy`
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/NETLIFY_IMG/s2.8.png" align="center" />
 <br><br>
 
 8. When the progress is done, you can access your site with that url.
