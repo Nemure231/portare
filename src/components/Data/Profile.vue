@@ -1,4 +1,5 @@
 <script>
+import { useDark } from '@vueuse/core'
 export default {
   data() {
     return {
@@ -52,27 +53,34 @@ export default {
       localStorage.setItem('profile', JSON.stringify(this.profile));
     },
     checkBgChild(){
-      const checkDark = localStorage.getItem('vueuse-color-scheme');
-      if(checkDark !== 'light'){
-        document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
+      const checkDark = document.getElementsByTagName("html")[0];
+
+      if(!checkDark.classList.contains('dark')){
+          document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
       }else{
-        document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
+          document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
+
       }
     }
   },
   mounted(){
     this.setProfileData();
     this.bgPattern
+
+    const isDark = useDark();
+    console.log(isDark)
   },
   computed: {
     bgPattern(){
-      const checkDark = localStorage.getItem('vueuse-color-scheme');
-      if(checkDark === 'light'){
-        document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
+      const checkDark = document.getElementsByTagName("html")[0];
+
+      if(checkDark.classList.contains('dark')){
+          document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
       }else{
-        document.getElementsByTagName('body')[0].style.backgroundImage = this.bgDark
+          document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
       }
-    }
+    },
+
   }
 }
 </script>

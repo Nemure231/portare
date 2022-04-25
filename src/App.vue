@@ -1,6 +1,7 @@
 <script>
 import { StarportCarrier, Starport } from 'vue-starport'
 import { UseDark } from '@vueuse/components'
+import { usePreferredDark } from '@vueuse/core'
 import Profile from './components/Data/Profile.vue'
 import Skill from './components/Data/Skill.vue'
 import Portfolio from './components/Data/Portfolio.vue'
@@ -70,6 +71,14 @@ export default {
   mounted() {
     this.reloadOnce();
   },
+  updated(){
+    this.toggleDark();
+  },
+  computed: {
+    skk(){
+      return usePreferredDark();
+    }
+  }
 }   
 </script>
 
