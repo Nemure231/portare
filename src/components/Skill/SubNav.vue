@@ -8,7 +8,7 @@ export default {
   <div
     class="bg-dark dark:bg-secondary h-12 flex-row flex-nowrap flex justify-center items-center lg:text-2xl md:text-2xl text-xl text-main font-bold">
     <div class="relative flex-1 basis-full text-center">
-      Skill
+      Skills
 
       <router-link class="absolute left-3" to="/">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
