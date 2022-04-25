@@ -3,6 +3,11 @@
 It was pretty easy to edit Portare, because the data have separate folder. Let's get started.
 </p>
 
+## Notice!
+You must careful when you edit it, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your repository.
+<img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d8.png" align="center" />
+<br>
+
 1. Go to your repository, you will find out a folder named `src`, click that.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d1.png" align="center" />
 <br><br>
@@ -30,10 +35,6 @@ It was pretty easy to edit Portare, because the data have separate folder. Let's
 7. After you done with your edit, always choose `Commit directly to the main branch.` And then click `Commit change`.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d7.png" align="center" />
 <br><br>
-
-## Notice!
-You must careful when you edit it, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your repository.
-<img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d8.png" align="center" />
 
 ## Tips
 And you are done, you can check your netlify dashboard to see the progress, after the progress is done, open your website. The deploy is success but your website logo still haven't change yet? You need to hard refresh your browser because your browser still store your old logo and old information, to do that just click `CTRL` + `SHIFT` + `R` in your website.
