@@ -1,5 +1,4 @@
 <script>
-import { usePreferredDark } from '@vueuse/core'
 export default {
   data() {
     return {
@@ -60,9 +59,7 @@ export default {
           document.getElementsByTagName('body')[0].style.backgroundImage = this.bg
       }
     },
-    isDarks(){
-      return usePreferredDark();
-    }
+    
   },
   mounted(){
     this.setProfileData();
