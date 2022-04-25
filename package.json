@@ -1,6 +1,9 @@
 {
   "name": "portare",
   "private": true,
+  "author": "Karol.Y",
+  "license": "MIT",
+  "description": "A simple SPA PWA portfolio.",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
