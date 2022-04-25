@@ -8,15 +8,15 @@ we need to convert your icon with some favicon converter.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m1.png" align="center" />
 <br><br>
 
-2. After that, click download.
+2. After that, click `Download`.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m2.png" align="center" />
 <br><br>
 
-3. After that, keep those 4 images, you can delete the rest of them,.
+3. After download, extract your zip and you will see those files. Keep those 4 images, you can delete the rest of them.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m3.png" align="center" />
 <br><br>
 
-4. Rename it, with pwa at the first. We also need to convert the small image to .svg version.
+4. Rename it, with pwa at the first place. We also need to convert the small image to .svg version.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m4.png" align="center" />
 <br><br>
 
@@ -40,11 +40,11 @@ we need to convert your icon with some favicon converter.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m9.png" align="center" />
 <br><br>
 
-10. To delete the old items, you need to click the item, and then remove it one by one, clic the `trash` icon.
+10. To delete the old items, you need to click the item, and then remove it one by one, then click the `trash` icon.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m10.png" align="center" />
 <br><br>
 
-11. After you sure, you already delete all of those old items, you need to add the new one, yours items, so click `Add file` then `Upload files`
+11. After you already delete all of those old items, you need to add the new one, yours items, so click `Add file` then `Upload files`
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m11.png" align="center" />
 <br><br>
 
@@ -56,11 +56,13 @@ we need to convert your icon with some favicon converter.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m13.png" align="center" />
 <br><br>
 
-14. You will see the file, and there's so many example i write in that file to help you with the edits. To edit it, click the `Pencil` icon.
+14. You will see the file, and there's so many example i write in that file to help you with the edits. You need to careful here, everything you need to fill is always inside `the content=" "`, please make you double check to make sure you don't leave any typo.
+
+To To edit it, click the `Pencil` icon.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m14.png" align="center" />
 <br><br>
 
-15. After you done with your edit, fill your `Commit change` its optional anyway but maybe you can leave it empty, and then click `Commit change`
+15. After you done with your edit, fill your `Commit change` its optional anyway you can leave it empty if you want, and then click `Commit change`
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m15.png" align="center" />
 <br><br>
 
