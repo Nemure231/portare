@@ -37,7 +37,7 @@ export default {
             // Maybe you got promotion? you can add more role job at your workplace
             {
               id: 2,
-              name: `System Analyist (2014 - NOW)`,
+              name: `System Analyist (2014 - PRESENT)`,
               comment: `My boss give me this promotion, i am now a system analyst.`,
               img: `/img/profile/1.png`,
               testi: `/img/company/1.png`,
@@ -64,6 +64,7 @@ export default {
               // Your client profile picture, if its null, then it will return to first number of your client name
               img: ``,
               // Your client testimony image
+               // Its located at folder public/img/testimony
               testi: `/img/testimony/1.png`,
             },
           ]

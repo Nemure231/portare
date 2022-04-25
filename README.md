@@ -45,4 +45,4 @@
 
 ## Copyright
 
-Copyright by Karol.Y under <a href="https://github.com/Nemure231/portare/blob/main/LICENSE">MIT</a> Lincense
+Copyright by Karol.Y under <a href="https://github.com/Nemure231/portare/blob/main/LICENSE">MIT</a> LINCENSE
