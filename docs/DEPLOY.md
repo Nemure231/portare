@@ -68,12 +68,12 @@ Next guide is setup your meta, data, or color of your website. It's doesn't matt
 </p>
 <p align="right">Next
   <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_DATA.md">
-    Setup Meta
+    Setup Data
   </a>
 </p>
 <p align="right">Next
   <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_COLOR.md">
-    Setup Meta
+    Setup Color
   </a>
 </p>
 

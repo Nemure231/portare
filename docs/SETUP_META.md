@@ -71,13 +71,17 @@ And you are done, you can check your netlify dashboard to see the progress, afte
 
 <br>
 <p align="right">Next
-  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/mETUP_DATA.md">
+  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_META.md">
+    Setup Meta
+  </a>
+</p>
+<p align="right">Next
+  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_DATA.md">
     Setup Data
   </a>
 </p>
 <p align="right">Next
-  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/mETUP_COLOR.md">
-    Setup Meta
+  <a align="right" href="https://github.com/Nemure231/portare/blob/main/docs/SETUP_COLOR.md">
+    Setup Color
   </a>
 </p>
-
