@@ -1,6 +1,6 @@
 ## Note
 <p align="justify">
-It was pretty easy to edit Portare, because the data have separeate folder. Let's get started.
+It was pretty easy to edit Portare, because the data have separate folder. Let's get started.
 </p>
 
 1. Go to your repository, you will find out a folder named `src`, click that.

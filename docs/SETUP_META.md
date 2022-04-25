@@ -56,7 +56,7 @@ we need to convert your icon with some favicon converter.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m13.png" align="center" />
 <br><br>
 
-14. You will see the file, and there's so many example i write in that file to help you with the edits. You need to careful here, everything you need to fill is always inside `the content=" "`, please make you double check to make sure you don't leave any typo.
+14. You will see the file, and there's so many example i write in that file to help you with the edits. You need to careful here, everything you need to fill is always inside `the content=" "`, please make sure you double check to make sure you don't leave any typo.
 
 To To edit it, click the `Pencil` icon.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m14.png" align="center" />
@@ -65,6 +65,10 @@ To To edit it, click the `Pencil` icon.
 15. After you done with your edit, fill your `Commit change` its optional anyway you can leave it empty if you want, and then click `Commit change`
  <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m15.png" align="center" />
 <br><br>
+
+## Notice!
+You must careful when edit the Data file, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your reporitory.
+<img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m16.png" align="center" />
 
 ## Tips
 And you are done, you can check your netlify dashboard to see the progress, after the progress is done, open your website. The deploy is success but your website logo still haven't change yet? You need to hard refresh your browser because your browser still store your old logo and old information, to do that just click `CTRL` + `SHIFT` + `R` in your website.
