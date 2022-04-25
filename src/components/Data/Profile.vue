@@ -9,7 +9,7 @@ export default {
         // Located at public/img/profile
         img: `/img/profile/1.png`,
         // This is your description, introduce yourself here
-        desc: `Hello there, my name is ..., I am a ... at ..., I like ..., and really curious about ...`,
+        desc: `Hello there, my name is ..., I am a ... at ..., I like ..., and really curious about ..., I'am currently learning about ...`,
         // This is your social media link with icon
         // If you want to add more icon, just copy and paste the social data
         // Remember always wrap the data inside backtick `your data`
