@@ -17,7 +17,7 @@ After you done with your edit, always choose `Commit directly to the main branch
 <br><br>
 
 ## Notice!
-You must careful when edit the Data file, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your reporitory.
+You must careful when you edit it, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your repository.
 <img src="https://github.com/Nemure231/portare/blob/main/docs/COLOR_IMG/c4.png" align="center" />
 
 ## Tips

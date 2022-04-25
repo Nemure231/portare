@@ -74,7 +74,7 @@ To To edit it, click the `Pencil` icon.
 <br><br>
 
 ## Notice!
-You must careful when edit the Data file, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your reporitory.
+You must careful when you edit it, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your repository.
 <img src="https://github.com/Nemure231/portare/blob/main/docs/META_IMG/m16.png" align="center" />
 
 ## Tips

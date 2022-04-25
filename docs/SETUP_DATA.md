@@ -32,7 +32,7 @@ It was pretty easy to edit Portare, because the data have separate folder. Let's
 <br><br>
 
 ## Notice!
-You must careful when edit the Data file, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your reporitory.
+You must careful when you edit it, make sure you don't leave any typo in there. Or maybe you can edit your file somewhere else, i sugess you edit in [Codepen](https://codepen.io/pen/?editors=), because you can see the color of your code and make it easy to edit, and after you done with Codepen, you can paste again your code to your repository.
 <img src="https://github.com/Nemure231/portare/blob/main/docs/DATA_IMG/d8.png" align="center" />
 
 ## Tips
