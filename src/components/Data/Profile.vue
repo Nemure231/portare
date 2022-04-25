@@ -4,7 +4,7 @@ export default {
     return {
       profile: {
         // This is yout Name
-        name: `Your Name of Course.`,
+        name: `Your Name of Course`,
         // Your profile picture
         // Located at public/img/profile
         img: `/img/profile/1.png`,
