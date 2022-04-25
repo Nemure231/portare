@@ -37,11 +37,11 @@
 <br>
 <a href="https://vitejs.dev/"><img width=40px height=40px src="https://vitejs.dev/logo.svg" alt="Vite"></a> Front-End Tooling
 <br>
-<a href="https://vite-plugin-pwa.netlify.app/"><img width=50px height=50px src="https://vite-plugin-pwa.netlify.app/banner_light.svg" alt="Vite PWA"></a> PWA Plugin
+<a href="https://vite-plugin-pwa.netlify.app"><img width=50px height=50px src="https://vite-plugin-pwa.netlify.app/banner_light.svg" alt="Vite PWA"></a> PWA Plugin
 <br>
 <a href="https://vue-starport.netlify.app/"><img width=50px height=50px src="https://github.com/antfu/vue-starport/blob/main/graphs/logo.png" alt="Starport"></a> Animation Across Route
 
 
 ## Copyright
 
-Copyright by Karol.Y under <a href="https://github.com/Nemure231/portare/blob/main/LICENSE">MIT</a> LINCENSE
+Copyright by Karol.Y under <a href="https://github.com/Nemure231/portare/blob/main/LINCENSE">MIT</a> LINCENSE

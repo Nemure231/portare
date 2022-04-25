@@ -13,7 +13,7 @@ module.exports = {
       colors: {
         'primary': '#1f2937',
         'secondary': '#6b7280',
-        'main': '#5eead4',
+        'main': '#14b8a6',
         'light': '#d1d5db'
       },
       //This is default background colors
@@ -24,7 +24,7 @@ module.exports = {
       },
       // The border colors
       borderColor: {
-        'main': '#5eead4'
+        'main': '#14b8a6'
       },
     },
   },
