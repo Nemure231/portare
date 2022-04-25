@@ -4,11 +4,11 @@ The color, unfortunately you can only change the default color here.
 </p>
 
 1. Go to your repository, scroll down a bit, you will find out a file named `tailwind.config.json`, click that.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/COLOR_IMG/d1.png" align="center" />
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/COLOR_IMG/c1.png" align="center" />
 <br><br>
 
 2. Click the `pencil` icon to start edit.
- <img src="https://github.com/Nemure231/portare/blob/main/docs/COLOR_IMG/d2.png" align="center" />
+ <img src="https://github.com/Nemure231/portare/blob/main/docs/COLOR_IMG/c2.png" align="center" />
 <br><br>
 
 3. Now you can edit it, you can copy the hex color to see the preview colors, or maybe compare with your website. 
