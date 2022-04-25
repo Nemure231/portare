@@ -28,7 +28,6 @@
 - [Setup Portfolio Meta's](../main/docs/SETUP_META.md)
 - [Setup Portfolio Data's](../main/docs/SETUP_DATA.md)
 - [Setup Portfolio Color's](../main/docs/SETUP_COLOR.md)
-- [Maintenance](../main/docs/MAINTENANCE.md)
 - [Advanced](../main/docs/ADVANCED.md)
 
 
