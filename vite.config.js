@@ -15,9 +15,9 @@ export default defineConfig({
       strategies: 'injectManifest',
       includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],  
       manifest: {
-        name: 'Portfo',
+        name: 'Portare',
         short_name: 'Portare',
-        description: 'Open source portfolio website',
+        description: 'A simple SPA PWA portfolio',
         theme_color: '#ffffff',
         icons: [
           {
