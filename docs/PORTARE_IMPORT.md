@@ -1,6 +1,5 @@
 ## Note
-We are now going to install portare, in the import way. As i said before, you can make your website private or public, but the risk is you are
-cannot receive some update verison from Portare. So lets get started.
+To do this, you must be login into github first. So lets's get started.
 
 1. Go to [Portare](../main/docs/GITHUB.md) Github, click the `Code` button, then in `HTTPS` tabs to copy the link.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/IMPORT_IMG/p1.png" align="center" />
