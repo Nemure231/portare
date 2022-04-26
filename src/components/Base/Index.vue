@@ -18,7 +18,7 @@ export default {
 
 <template>
   <Name />
-  <main class="relative space-y-6 w-full flex flex-col justify-center items-center my-8 overflow-x-hidden">
+  <main class="relative space-y-6 w-full flex flex-col justify-center items-center my-8 overflow-hidden 2xl:overflow-visible">
     <section class="relative flex-1 2xl:max-w-6xl xl:max-w-5xl lg:max-w-4xl md:max-w-2xl max-w-max">
       <div class="absolute inset-y-0 2xl:-right-60 xl:-right-48 lg:-right-48 md:-right-36 right-6 2xl:top-8 xl:top-0 lg:-top-0 md:-top-3 -top-40">
         <transition appear enter-active-class="duration-700 ease-out"
