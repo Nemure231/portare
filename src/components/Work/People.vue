@@ -46,12 +46,12 @@ export default {
         </div>
 
         <div
-            class="absolute bottom-0 inset-x-0 px-3  py-1 bg-main rounded-xl group-hover:border-2 group-hover:border-primary">
+            class="absolute bottom-0 inset-x-0 px-3  py-1 bg-light dark:bg-secondary text-primary dark:text-light rounded-xl group-hover:border-2 group-hover:border-primary">
             <div class="flex flex-row flex-nowrap items-center justify-start space-x-2">
-                <img :class="p.img ? 'block' : 'hidden'" class="w-10 h-10 rounded-full border-2 border-primary"
+                <img :class="p.img ? 'block' : 'hidden'" class="w-10 h-10 rounded-full border-2 border-main"
                     :src="p.img" alt="">
                 <div :class="p.img ? 'hidden' : 'block'" v-text="p.name[0]"
-                    class="w-10 h-10 rounded-full border-2 border-primary uppercase inline-flex justify-center items-center font-bold text-primary">
+                    class="w-10 h-10 rounded-full border-2 border-main uppercase inline-flex justify-center items-center font-bold text-main">
 
                 </div>
                 <span class="2xl:text-base xl:text-sm lg:text-sm md:text-sm text-xs" v-text="p.name"></span>
