@@ -1,7 +1,7 @@
 ## Note
 To do this, you must be login into github first. So lets's get started.
 
-1. Go to [Portare](../main/docs/GITHUB.md) Github, click the `Code` button, then in `HTTPS` tabs to copy the link.
+1. Go to [Portare](https://github.com/Nemure231/portare) Github, click the `Code` button, then in `HTTPS` tabs to copy the link.
  <img src="https://github.com/Nemure231/portare/blob/main/docs/IMPORT_IMG/p1.png" align="center" />
 <br><br>
 
